@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author reisa
+ * @author reisa pc empresa
  */
 public class JFInicio extends javax.swing.JFrame {
 
